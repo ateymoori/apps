@@ -1,0 +1,19 @@
+name: LyricGlow
+description: 'Synced lyrics for Spotify and Apple Music in the macOS menu bar, with word-by-word karaoke highlighting and translation into 43 languages.'
+website: 'https://royan.se/work/lyricglow/'
+repository: 'https://github.com/ateymoori/lyricglow'
+keywords:
+  - lyrics
+  - synced lyrics
+  - karaoke
+  - menu bar
+  - translation
+  - spotify
+  - apple music
+license: MIT
+category: Music
+screenshots:
+  - imageUrl: 'https://raw.githubusercontent.com/ateymoori/lyricglow/main/screenshots/lyricglow-macos-full-mode-artist-metadata-lyrics.png'
+    caption: 'Synced lyrics with artist info and album art'
+  - imageUrl: 'https://raw.githubusercontent.com/ateymoori/lyricglow/main/screenshots/lyricglow-macos-rtl-support-persian-arabic-hebrew.png'
+    caption: 'Live translation with right-to-left support'
